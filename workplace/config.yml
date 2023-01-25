@@ -1010,8 +1010,8 @@ generators:
       Red Copper: 紫铜
       Mithril: 秘银
       Muspelheim Power: 炽热魔灵
-      Enriched Naquadah: 浓缩硅岩金属
-      Naquadria: 硅岩金属化合物
+      Enriched Naquadah: 浓缩纳卡达金属
+      Naquadria: 纳卡达金属化合物
       Magnetic Neodymium: 磁化钕
       Netherite: 下界合金
       Netherized Diamond: 下界钻石
@@ -1059,7 +1059,7 @@ generators:
       Gray Schist: 灰色片岩
       Sand: 沙
       Deepslate: 深板岩
-      Enriched Anti-Naquadah: 浓缩反物质硅岩金属
+      Enriched Anti-Naquadah: 浓缩反物质纳卡达金属
       Alumina: 氧化铝
       Gibbsite: 水铝矿
       Alunite: 明矾石
@@ -1810,8 +1810,8 @@ generators:
       Mercury: 汞
       Molybdenum: 钼
       Moscovium: 镆
-      Naquadah: 硅岩金属
-      Naquadria: 硅岩金属化合物
+      Naquadah: 纳卡达金属
+      Naquadria: 纳卡达金属化合物
       Neodymium: 钕
       Neptunium: 镎
       Nickel: 镍
@@ -2597,7 +2597,7 @@ generators:
       Osmiridium: 铱锇合金
       Carborundum: 碳化硅
       Iridium: 铱
-      Naquadah: 硅岩金属
+      Naquadah: 纳卡达金属
       Vanadium-Gallium: 钒镓合金
       Yttrium-Barium-Cuprate: 钇钡铜氧合金
       Graphene: 石墨烯
